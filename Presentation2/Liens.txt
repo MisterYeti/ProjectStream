@@ -1,0 +1,10 @@
+https://www.learn2play.fr/
+
+tbiffaud@gmail.com
+
+https://gitlab.com/kevbesset/learn-to-play/blob/dev/app/Http/Controllers/Api/CardGame/CardController.php
+https://gitlab.com/kevbesset/learn-to-play/tree/dev/app/Http/Controllers/Api
+
+
+https://learn2play.fr/admin/dashboard
+

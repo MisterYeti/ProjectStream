@@ -1,0 +1,25 @@
+https://www.learn2play.fr/
+
+BBD
+
+tbiffaud@gmail.com
+https://gitlab.com/kevbesset/learn-to-play/blob/dev/app/Http/Controllers/Api/CardGame/CardController.php
+
+https://gitlab.com/kevbesset/learn-to-play/tree/dev/app/Http/Controllers/Api
+
+exemples requests : 
+
+https://learn2play.fr/api/cardgame/card
+https://learn2play.fr/api/cardgame/card?role=3
+https://learn2play.fr/api/cardgame/player/811
+https://learn2play.fr/api/cardgame/champion
+
+
+
+presprog3a@gmail.com
+creation compte
+
+Jeu
+
+https://learn2play.fr/admin/dashboard
+
